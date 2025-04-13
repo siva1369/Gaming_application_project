@@ -1,11 +1,5 @@
 the ultimate CICD corporate devops pipeline project:-
------------------------------------------------------
-
-
-code repo = https://github.com/jaiswaladi246/Boardgame
-
-document = https://github.com/jaiswaladi246/DevOps_Shack_Ultimate_Pipeline_12_march
-
+----------------------------------------------------
 
 
 
